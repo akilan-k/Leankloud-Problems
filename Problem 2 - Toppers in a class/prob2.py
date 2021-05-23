@@ -37,3 +37,10 @@ with open('Student_marks_list.csv', 'r') as student_list:
     print("Topper in Hindi", top_names[5])
     print("Best students in the class are {}, {}, {}".format(first, second, third))
     	
+# Topper in Maths Manasa
+# Topper in Biology Sreeja  
+# Topper in English Praneeta
+# Topper in Physics Sagar   
+# Topper in Chemistry Manasa
+# Topper in Hindi Aravind
+# Best students in the class are Manodhar, Bhavana, Sourav
